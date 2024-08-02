@@ -1,0 +1,17 @@
+if(o.find(1)!=-1 && o.find(2)!=-1 && o.find(3)!=-1){
+
+}else if(o.find(4)!=-1 && o.find(5)!=-1 && o.find(6)!=-1){
+
+} else if(o.find(7)!=-1 && o.find(8)!=-1 && o.find(9)!=-1){
+
+} else if(o.find(1)!=-1 && o.find(4)!=-1 && o.find(7)!=-1){
+
+} else if(o.find(2)!=-1 && o.find(5)!=-1 && o.find(8)!=-1){
+
+} else if(o.find(3)!=-1 && o.find(6)!=-1 && o.find(9)!=-1){
+
+}else if(o.find(1)!=-1 && o.find(5)!=-1 && o.find(9)!=-1){
+
+} else if(o.find(3)!=-1 && o.find(5)!=-1 && o.find(7)!=-1){
+
+} 
