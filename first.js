@@ -11,20 +11,35 @@ let name2 = "X";
 function func(i,name){
 if(i.indexOf(1)!=-1 && i.indexOf(2)!=-1 && i.indexOf(3)!=-1){
     alert(`${name} Player won!!!!`);
+    location.reload();
 }else if(i.indexOf(4)!=-1 && i.indexOf(5)!=-1 && i.indexOf(6)!=-1){
     alert(`${name} Player won!!!!`);
+    location.reload();
+
 } else if(i.indexOf(7)!=-1 && i.indexOf(8)!=-1 && i.indexOf(9)!=-1){
     alert(`${name} Player won!!!!`);
+    location.reload();
+
 } else if(i.indexOf(1)!=-1 && i.indexOf(4)!=-1 && i.indexOf(7)!=-1){
     alert(`${name} Player won!!!!`);
+    location.reload();
+
 } else if(i.indexOf(2)!=-1 && i.indexOf(5)!=-1 && i.indexOf(8)!=-1){
     alert(`${name} Player won!!!!`);
+    location.reload();
+
 } else if(i.indexOf(3)!=-1 && i.indexOf(6)!=-1 && i.indexOf(9)!=-1){
     alert(`${name} Player won!!!!`);
+    location.reload();
+
 }else if(i.indexOf(1)!=-1 && i.indexOf(5)!=-1 && i.indexOf(9)!=-1){
     alert(`${name} Player won!!!!`);
+    location.reload();
+
 } else if(i.indexOf(3)!=-1 && i.indexOf(5)!=-1 && i.indexOf(7)!=-1){
     alert(`${name} Player won!!!!`);
+    location.reload();
+
 } 
 }
 
